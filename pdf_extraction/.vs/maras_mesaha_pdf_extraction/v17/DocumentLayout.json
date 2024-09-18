@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\implementations\\nedosys\\nedosysrecordextractionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|solutionrelative:maras_mesaha_pdf_extraction\\implementations\\nedosys\\nedosysrecordextractionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\pdfextraction\\pdfextractionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|solutionrelative:maras_mesaha_pdf_extraction\\pdfextraction\\pdfextractionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|c:\\users\\emre\\desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\pdfextraction\\record\\irecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|solutionrelative:maras_mesaha_pdf_extraction\\pdfextraction\\record\\irecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\pdfextraction\\record\\idetailrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|solutionrelative:maras_mesaha_pdf_extraction\\pdfextraction\\record\\idetailrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|c:\\users\\emre\\desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\pdfextraction\\pdfcolumndefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|solutionrelative:maras_mesaha_pdf_extraction\\pdfextraction\\pdfcolumndefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\implementations\\nedosys\\sssolmesahaciftcirecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|solutionrelative:maras_mesaha_pdf_extraction\\implementations\\nedosys\\sssolmesahaciftcirecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\implementations\\nedosys\\nedosysrowtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|solutionrelative:maras_mesaha_pdf_extraction\\implementations\\nedosys\\nedosysrowtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|c:\\users\\emre\\desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\implementations\\nedosys\\sssolmesaharecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|solutionrelative:maras_mesaha_pdf_extraction\\implementations\\nedosys\\sssolmesaharecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|solutionrelative:maras_mesaha_pdf_extraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\pdfextraction\\pdfextractionstrategytypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA18A29-9B39-49DB-B372-7AE3D99A8CBA}|maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction.csproj|solutionrelative:maras_mesaha_pdf_extraction\\pdfextraction\\pdfextractionstrategytypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{01321f1c-6c9e-3b5b-9c0f-66d2a373c254}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\PdfExtraction\\Record\\IRecord.cs",
+              "RelativeDocumentMoniker": "maras_mesaha_pdf_extraction\\PdfExtraction\\Record\\IRecord.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\PdfExtraction\\Record\\IRecord.cs",
+              "RelativeToolTip": "maras_mesaha_pdf_extraction\\PdfExtraction\\Record\\IRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:27:30.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PdfColumnDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\PdfExtraction\\PdfColumnDefinition.cs",
+              "RelativeDocumentMoniker": "maras_mesaha_pdf_extraction\\PdfExtraction\\PdfColumnDefinition.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\PdfExtraction\\PdfColumnDefinition.cs",
+              "RelativeToolTip": "maras_mesaha_pdf_extraction\\PdfExtraction\\PdfColumnDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:27:27.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NedoSysRecordExtractionStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\NedoSysRecordExtractionStrategy.cs",
+              "RelativeDocumentMoniker": "maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\NedoSysRecordExtractionStrategy.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\NedoSysRecordExtractionStrategy.cs",
+              "RelativeToolTip": "maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\NedoSysRecordExtractionStrategy.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAYwCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:41:32.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NedoSysRowTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\NedoSysRowTypes.cs",
+              "RelativeDocumentMoniker": "maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\NedoSysRowTypes.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\NedoSysRowTypes.cs",
+              "RelativeToolTip": "maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\NedoSysRowTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:41:41.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDetailRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\PdfExtraction\\Record\\IDetailRecord.cs",
+              "RelativeDocumentMoniker": "maras_mesaha_pdf_extraction\\PdfExtraction\\Record\\IDetailRecord.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\PdfExtraction\\Record\\IDetailRecord.cs",
+              "RelativeToolTip": "maras_mesaha_pdf_extraction\\PdfExtraction\\Record\\IDetailRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:09:58.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfExtractionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\PdfExtraction\\PdfExtractionFactory.cs",
+              "RelativeDocumentMoniker": "maras_mesaha_pdf_extraction\\PdfExtraction\\PdfExtractionFactory.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\PdfExtraction\\PdfExtractionFactory.cs",
+              "RelativeToolTip": "maras_mesaha_pdf_extraction\\PdfExtraction\\PdfExtractionFactory.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:43:48.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SssolMesahaRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\SssolMesahaRecord.cs",
+              "RelativeDocumentMoniker": "maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\SssolMesahaRecord.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\SssolMesahaRecord.cs",
+              "RelativeToolTip": "maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\SssolMesahaRecord.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAIkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:42:28.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\Program.cs",
+              "RelativeDocumentMoniker": "maras_mesaha_pdf_extraction\\Program.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\Program.cs",
+              "RelativeToolTip": "maras_mesaha_pdf_extraction\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:09:14.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PdfExtractionStrategyTypes.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\PdfExtraction\\PdfExtractionStrategyTypes.cs",
+              "RelativeDocumentMoniker": "maras_mesaha_pdf_extraction\\PdfExtraction\\PdfExtractionStrategyTypes.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\PdfExtraction\\PdfExtractionStrategyTypes.cs",
+              "RelativeToolTip": "maras_mesaha_pdf_extraction\\PdfExtraction\\PdfExtractionStrategyTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:44:06.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SssolMesahaCiftciRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\SssolMesahaCiftciRecord.cs",
+              "RelativeDocumentMoniker": "maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\SssolMesahaCiftciRecord.cs",
+              "ToolTip": "C:\\Users\\Emre\\Desktop\\maras_mesaha_pdf_extraction\\maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\SssolMesahaCiftciRecord.cs",
+              "RelativeToolTip": "maras_mesaha_pdf_extraction\\Implementations\\NedoSys\\SssolMesahaCiftciRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:43:15.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
